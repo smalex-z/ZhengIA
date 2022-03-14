@@ -1,0 +1,20 @@
+What to Do:
+
+Schedule:
+
+Week of 2/21 - GET ALL OF LOGIN AND SIGNUP DONE
+
+Signup -> GUI of Signup
+2/21 - Finished 2 Hour
+
+JSON --> Password, Admin?, Name, Total points, sprint answers in an array, target answers in an array
+2/23 - Finished, 3 hours
+
+
+Week of 2/28 - Finish Logic for Question Input
+
+2/03 - Show first draft to Kaveney, no rankings yet
+
+3/07 - Implement Rankings, inplement advice from Kaveney
+
+(((int)timeLeft/60) + ":" + String.format("%02d",(timeLeft - (((int)timeLeft/60)*60))))

@@ -1,0 +1,62 @@
+[
+  {
+    "Question": "If 3x + 2 = 17, what is the value of x?",
+    "Answer": 5
+  },
+  {
+    "Question": "A mountain bike, originally priced at $650, is on sale for 20% off. After the fixed shipping cost of $25 is added to the new price, what is the final cost of the bike?",
+    "Answer": 545
+  },
+  {
+    "Question": "What is the area of the largest rectangular field that can be completely enclosed using 120 feet of fencing?",
+    "Answer": 900
+  },
+  {
+    "Question": "The quotient of two positive integers is 21. The difference between the larger integer and this quotient is 21. What is the sum of the two integers?",
+    "Answer": 44
+  },
+  {
+    "Question": "The sum of the ages of Kishia and her daughter is 48 years, and the difference of their ages is 20 years. How old is Kishia?",
+    "Answer": 34  
+  },
+  {
+    "Question": "Cooke County schools have 7 teams playing in a basketball tournament. How many games will be played if each team plays 3 games against every other team?",
+    "Answer": 63
+  },
+  {
+    "Question": "A certain cube has volume n cubic inches and surface area n square inches. What is the value of n?",
+    "Answer": 216
+  },
+  {
+    "Question": "Andrea is pouring water from a full bucket into an empty bucket. The full bucket initially contained 4800 ml of water, and Andrea pours at a steady rate of 100 ml per second. For how many seconds must Andrea pour to get the same amount of water in each bucket?",
+    "Answer": 24
+  },
+  {
+    "Question": "Twenty-seven unpainted unit cubes are used to construct a large 3 × 3 × 3 cube. If five of the six faces of the large cube are then painted, how many of the unit cubes are painted on exactly two faces?",
+    "Answer": 12
+  },
+  {
+    "Question": "The mean of five whole numbers is 12, and the unique mode is 13. If all five numbers are greater than 9 but less than 14, what is the median of the five numbers?",
+    "Answer": 13
+  },
+  {
+    "Question": "Chad has $1.80 in coins consisting of nickels and dimes only. If the total value of his nickels is twice that of his dimes, how many coins does Chad have?",
+    "Answer": 30
+  },
+  {
+    "Question": "The sum of the first n + 2 counting numbers is 43 more than the sum of the first n counting numbers. What is the value of n?",
+    "Answer": 20
+  },
+  {
+    "Question": "What is the sum of the first 200 terms of the arithmetic sequence 5, 12, 19, 26, ...?",
+    "Answer": 140300
+  },
+  {
+    "Question": "An internet sales company will ship a box for free if the sum of the length, width and height is 48 inches or less. What is the maximum volume of a box 24 inches in length that ships for free ?",
+    "Answer": 3456
+  },
+  {
+    "Question": "Jose took 500 mg of medication at 2:00 p.m., and then he took another 500 mg at 6:00 p.m. However, 80% of the medication is cleared from his body every 2 hours. How many milligrams of medication remain in his body at 8:00 p.m.?",
+    "Answer": 104
+  }
+]

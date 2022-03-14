@@ -1,0 +1,18 @@
+[
+    {
+      "Question": "Alec multiplied five of the six numbers 1, 4, 6, 9, 15 and 17 and obtained a product of 3240. Which of these six numbers was not included in the numbers he multiplied?",
+      "Answer": 17
+    },
+    {
+      "Question": "J. S. Bach’s Prelude No. 2 in C Minor consists of 88 measures with each measure containing 16 notes. In a typical performance, 432 notes are played every minute. How many seconds does it take to perform the entire Prelude?Express your answer to the nearest second. ",
+      "Answer": 196
+    },    
+    {
+      "Question": "Max is buying hot dogs and buns for dinner. If hot dogs are sold in packages of six and buns are sold in packages of eight, what is the least positive number of hot dogs that Max must buy so that he can purchase exactly the same number of buns?",
+      "Answer": 24
+    },
+    {
+      "Question": "Cindy has been given four chores to complete today: vacuum, mop, dust and laundry. Because Cindy finds doing laundry especially unpleasant, she wants to do that chore last. Given this, in how many different orders can Cindy complete her chores?",
+      "Answer": 6
+    }
+]
